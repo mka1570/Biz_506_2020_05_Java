@@ -10,6 +10,7 @@ public class Var_05 {
 		int num1 = rnd.nextInt(50)+50;
 		int num2 = rnd.nextInt(50)+51;
 		
+		
 		System.out.println(num1);
 		System.out.println(num2);
 		}
