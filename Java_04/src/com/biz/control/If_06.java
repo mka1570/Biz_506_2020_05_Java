@@ -25,5 +25,6 @@ public class If_06 {
 		}
 		 
 		
+		
 	}
 }
