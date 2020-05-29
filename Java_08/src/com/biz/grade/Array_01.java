@@ -82,7 +82,7 @@ public class Array_01 {
 		System.out.println("국어\t\t영어\t\t수학\t\t음악\t\t총점\t\t평균");
 		System.out.println("---------------------------------------------------------");
 		for(int i = 0; i < 20 ; i++) {
-			System.out.printf("%d\t\t%d\t\t%d\t\t%d\n",intKor,intEng,intMath,intMusic,intStSum
+			System.out.printf("%d\t\t%d\t\t%d\t\t%d\n"
 					,intKor[i], intEng[i], intMath[i], intMusic[i], intStSum[i] / 4);
 			
 		}
